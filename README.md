@@ -9,7 +9,7 @@ Hi there, I'm peppapig450 a high school student.
   <summary><b>Where to find me</b></summary>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/peppapig450)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Github&logoColor=white)](https://twitter.com/nbgenius1)
+##[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Github&logoColor=white)](https://twitter.com/nbgenius1)
 
 </details>
 
