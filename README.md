@@ -2,7 +2,7 @@
 
 Hi there, I'm peppapig450 a high school student.
 
-- :school: I'm currently learning : Java, Bash, and Python
+- :school: I'm currently learning : Web Programming and Design, Rust, and Python
 
 
 <details>
