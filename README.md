@@ -39,9 +39,9 @@ Hi there, I'm peppapig450 a high school student.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-FCA121?logo=GitLab&style=for-the-badge&logoColor=white)
-
-
-<h2>Github stats :bar_chart:</h2>
+</details>
+<details>
+  <h2>Github stats :bar_chart:</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{peppapig450}/count.svg" alt="peppapig450 :: Visitor's Count" /></p>
 
@@ -74,3 +74,5 @@ Langs" />
 <a href="https://github.com/peppapig450?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=peppapig450&theme=gitdimmed&no-frame=true&column=3&row=2"  w
 idth="38%" alt="@peppapig450's trophy stats"/></a>
 </p>
+</details>
+
