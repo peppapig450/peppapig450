@@ -9,9 +9,7 @@ Hi there, I'm peppapig450 a high school student.
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/peppapig450)
   
-</>
-
-  <summary><b>Skills</b></summary>
+<summary><b>Skills</b></summary>
 
 [![python](https://img.shields.io/badge/python-★☆☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![java](https://img.shields.io/badge/java-★☆☆-lightgrey?labelColor=007396&logo=Java&style=for-the-badge&logoColor=white)](https://www.java.com)
@@ -22,7 +20,7 @@ Hi there, I'm peppapig450 a high school student.
 [![javascript](https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 
 
-  <summary><b>OS & Tools</b></summary>
+<summary><b>OS & Tools</b></summary>
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
@@ -48,8 +46,8 @@ Hi there, I'm peppapig450 a high school student.
 &hide_border=true"  width="48%" alt="@peppapig450's github-readme-stats"/></a>
 -->
 
-<a href="https://github.com/peppapig450?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=peppapig450&theme=merko&show_icons=true&count_priv
-ate=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@peppapig450's github-readme-stats"/></a>
+<a href="https://github.com/peppapig450?tab=repositories">
+[![Nicks's GitHub stats](https://github-readme-stats.vercel.app/api?username=peppapig450)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/peppapig450?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=peppapig450&theme=merko&hide_border=true&date_format=M%20j%5B%2C
 %20Y%5D"  width="48%" alt="@peppapig450's github-readme-streak-stats"/></a>
 </p>
