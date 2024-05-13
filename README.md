@@ -45,8 +45,7 @@ Hi there, I'm peppapig450 a high school student.
 &hide_border=true"  width="48%" alt="@peppapig450's github-readme-stats"/></a>
 -->
 
-<a href="https://github.com/peppapig450?tab=repositories">
-[![Nicks's GitHub stats](https://github-readme-stats.vercel.app/api?username=peppapig450)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/peppapig450?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=peppapig450&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@peppapig450's github-readme-streak-stats"/></a>
 </p>
 
