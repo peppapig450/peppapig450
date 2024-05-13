@@ -5,14 +5,12 @@ Hi there, I'm peppapig450 a high school student.
 - :school: I'm currently learning : Web Programming and Design, Rust, and Python
 
 
-<details>
   <summary><b>Where to find me</b></summary>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/peppapig450)
   
-</details>
+</>
 
-<details>
   <summary><b>Skills</b></summary>
 
 [![python](https://img.shields.io/badge/python-★☆☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
@@ -23,9 +21,7 @@ Hi there, I'm peppapig450 a high school student.
 [![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
 [![javascript](https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 
-</details>
 
-<details>
   <summary><b>OS & Tools</b></summary>
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
@@ -39,9 +35,9 @@ Hi there, I'm peppapig450 a high school student.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-FCA121?logo=GitLab&style=for-the-badge&logoColor=white)
-</details>
-<details>
-  <h2>Github stats :bar_chart:</h2>
+
+
+<h2>Github stats :bar_chart:</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{peppapig450}/count.svg" alt="peppapig450 :: Visitor's Count" /></p>
 
