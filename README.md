@@ -45,8 +45,10 @@ Hi there, I'm peppapig450 a high school student.
 &hide_border=true"  width="48%" alt="@peppapig450's github-readme-stats"/></a>
 -->
 
-
-<a href="https://github.com/peppapig450?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=peppapig450&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@peppapig450's github-readme-streak-stats"/></a>
+<p align="center">
+  <a href="https://github.com/peppapig450?tab=stars">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=peppapig450&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@peppapig450's github-readme-streak-stats"/>
+  </a>
 </p>
 
 <!-- activity graph heroku-app start -->
@@ -60,8 +62,10 @@ ion%20graph%20in%20all%20repo" width="95%" alt="peppapig450's activity graph">
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peppapig450&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="peppapig450 :: Top Langs" />
-<a href="https://github.com/peppapig450?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=peppapig450&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@peppapig450's trophy stats"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peppapig450&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="peppapig450 :: Top Langs" />
+    <a href="https://github.com/peppapig450?tab=achievements">
+      <img src="https://github-profile-trophy.vercel.app/?username=peppapig450&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@peppapig450's trophy stats"/>
+    </a>
 </p>
 </details>
 
