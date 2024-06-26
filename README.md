@@ -11,115 +11,128 @@ And I am always eager to learn new programming styles and techniques and improve
 </details>
 
 <details>
-    <summary><b>Skills</b></summary>
+    <summary>
+      <b>Skills</b>
+    </summary>
 
-    ### Problem-Solving:
-    - Analytical thinking and problem-solving
-    - Ability to think outside the box and develop creative solutions
-    - Experience in troubleshooting complex issues and identifying root causes
+### Problem-Solving:
+  - Analytical thinking and problem-solving
+  - Ability to think outside the box and develop creative solutions
+  - Experience in troubleshooting complex issues and identifying root causes
 
-    ### Programming Languages:
+### Programming Languages:
 
-    #### Python:
-    - Proficient in:
-        - **Core Python:**
-            - Data Structures
-            - Control Flow
-            - Functions (instance, static, and class methods)
-            - Decorators (properties, wrappers, getters and setters)
-        - **Object-Oriented Programming:**
-            - Inheritance and Polymorphism
-            - Encapsulation and Abstraction
-            - Mixins
-            - `__dunder__` magic methods for classes
-            - Metaprogramming
-            - Design Patterns (Factory Methods and Singletons)
-        - Data manipulation (JSON, CSV, YAML and Parquet)
-        - Functional Programming
-        - Exception handling
-        - File I/O
-        - Systems administration scripting
-        - Asynchronous programming
-        - Web scraping
-        - Optimization techniques (including cprofile and timeit)
-        - Command line apps (Argparse)
-        - Docstrings and Type Hints
-        - Unit testing (pytest)
-        - Logging
-        - Serialization with Pickle and Shelve
-    - Libraries:
-        - Pydantic
-        - Selenium
-        - Pandas
-        - beautifulsoup4
-        - requests
-        - Pyarrow
-        - Jinja
-        - Numpy
-        - Pytest
-    - Development Tools:
-        - Poetry
-        - Mypy
+#### Python:
+  - Proficient in:
+    - **Core Python:**
+      - Data Structures
+      - Control Flow
+      - Functions (instance, static, and class methods)
+      - Decorators (properties, wrappers, getters and setters)
+    - **Object-Oriented Programming:**
+      - Inheritance and Polymorphism
+      - Encapsulation and Abstraction
+      - Mixins
+      - `__dunder__` magic methods for classes
+      - Metaprogramming
+      - Design Patterns (Factory Methods and Singletons)
+      - Data manipulation (JSON, CSV, YAML and Parquet)
+      - Functional Programming
+      - Exception handling
+      - File I/O
+      - Systems administration scripting
+      - Asynchronous programming
+      - Web scraping
+      - Optimization techniques (including cprofile and timeit)
+      - Command line apps (Argparse)
+      - Docstrings and Type Hints
+      - Unit testing (pytest)
+      - Logging
+      - Serialization with Pickle and Shelve
+  - Libraries:
+      - Pydantic
+      - Selenium
+      - Pandas
+      - beautifulsoup4
+      - requests
+      - Pyarrow
+      - Jinja
+      - Numpy
+      - Pytest
+  - Development Tools:
+      - Poetry
+      - Mypy
+      - black
+      - autopep8
 
-    #### Scripting:
-    - Proficient in:
-        - Python scripting for Windows, Linux and MacOS
-        - Bash, Posix sh, and ZSH scripting for managing Linux and MacOS
-        - PowerShell scripting for Windows
+#### Scripting:
+  - Proficient in:
+    - Python scripting for Windows, Linux and MacOS
+      - Bash, Posix sh, and ZSH scripting for managing Linux and MacOS
+      - PowerShell scripting for Windows
 
-    #### Web Programming:
-    - Proficient in:
-        - HTML
-        - CSS
-        - Vanilla JavaScript and basic TypeScript
+#### Web Programming:
+  - Proficient in:
+    - HTML
+    - CSS
+    - Vanilla JavaScript and basic TypeScript
 
-    #### Databases:
-    - Proficient in:
-        - SQL databases including MySql and Postgresql
-        - NoSQL databases including MongoDB
-        - Sqlite for simple caching
+#### Databases:
+  - Proficient in:
+    - SQL databases including MySql and Postgresql
+    - NoSQL databases including MongoDB
+    - Sqlite for simple caching
 
-    #### Java:
-    - Proficient in:
-        - Core Java (OOP concepts, primitive data types, control flow)
-        - Exception handling
-        - File I/O
-        - Database connectivity (JDBC for SQL)
-        - Build tools:
-            - Maven
-            - Gradle
-        - Building user interfaces with JavaFX/OpenJFX (using FXML)
+#### Java:
+  - Proficient in:
+    - Core Java (OOP concepts, primitive data types, control flow)
+    - Exception handling
+    - File I/O
+    - Database connectivity (JDBC for SQL)
+    - Build tools:
+      - Maven
+      - Gradle
+    - Building user interfaces with JavaFX/OpenJFX (using FXML)
 
-    #### Development Tools:
-    - Git (Github, Gitlab)
-    - VSCode
-    - Build Tools (build automation):
-        - Meson, CMake, Autotools (libtool, Make)
+#### Development Tools:
+  - Git (Github, Gitlab)
+  - VSCode
+  - Build Tools (build automation):
+    - Meson, CMake, Autotools (libtool, Make)
 
-    ### Command line & Systems Administration:
-    - Proficient and comfortable on the command line with extensive experience in various areas, including:
-        - Network Management: SSH, scp, rsync, curl, wget, aria2
-        - Security: gpg, openpgp
-        - System Administration:
-            - File System Management: Proficient in partitioning, formatting, and managing filesystems (e.g., XFS, BTRFS, LVM and RAID with experience in tool usage like cfdisk, fdisk, gdisk and parted)
-            - Network file systems: NTFS and Samba
-            - Bootloader Configuration: Experienced in configuring bootloaders for different system types (UEFI/BIOS) and partition schemes (MBR/GPT) with GRUB and Systemd-boot, including dual booting Windows and Linux
-            - Utilities: top/atop/htop, df, du, find, etc.
-            - Text manipulation: grep, ripgrep, sed, awk, tr, cut
-            - Network monitoring: nmap, netcat, tcpdump, iptables
-            - Systemd services, CRON jobs
+### Command line & Systems Administration:
+  - Proficient and comfortable on the command line with extensive experience in various areas, including:
+  - Network Management: SSH, scp, rsync, curl, wget, aria2
+  - Security: gpg, openpgp
+  - System Administration:
+    - File System Management: Proficient in partitioning, formatting, and managing filesystems (e.g., XFS, BTRFS, LVM and RAID with experience in tool usage like cfdisk, fdisk, gdisk and parted)
+    - Network file systems: NTFS and Samba
+    - Bootloader Configuration: Experienced in configuring bootloaders for different system types (UEFI/BIOS) and partition schemes (MBR/GPT) with GRUB and Systemd-boot, including dual booting Windows and Linux
+    - Utilities: top/atop/htop, df, du, find, etc.
+    - Text manipulation: grep, ripgrep, sed, awk, tr, cut
+    - Network monitoring: nmap, netcat, tcpdump, iptables
+    - Systemd services, CRON jobs
 
-    ### Operating Systems:
-    - Proficient on any operating system:
-        - **Linux:**
-            - Extensive experience with Gentoo Linux, Arch Linux, and Debian-based distros (e.g., Ubuntu, Mint)
-            - Familiar with NixOS, RHEL-based distros (e.g., Red Hat, CentOS, Rocky, Fedora), and SUSE Linux
-        - **BSD:**
-            - Familiar with OpenBSD and FreeBSD
-        - **Windows:** Advanced power-usage with Powertoys
-        - **macOS**
+### Operating Systems:
+  - Proficient on any operating system:
+    - **Linux:**
+      - Extensive experience with Gentoo Linux, Arch Linux, and Debian-based distros (e.g., Ubuntu, Mint)
+      - Familiar with NixOS, RHEL-based distros (e.g., Red Hat, CentOS, Rocky, Fedora), and SUSE Linux
+    - **BSD:**
+      - Familiar with OpenBSD and FreeBSD
+    - **Windows:** Advanced power-usage with Powertoys
+      - WSL
+    - **macOS**
+
     - Package managers for all of these:
         - Adept at using package managers across various distributions: APT, pacman (AUR), nix, dnf/yum, portage, zypper, winget/scoop, and Homebrew
+
+### Containerization:
+  - Docker
+  - Virtual Box
+  - HyperV
+  - Vmware
+
 </details>
 
 <h2>Github stats :bar_chart:</h2>
