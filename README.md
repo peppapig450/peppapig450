@@ -1,38 +1,128 @@
 ## Info 
 
-Hi there, I'm peppapig450 a high school student.
-
-- :school: I'm currently learning : Web Programming and Design, Rust, and Python
+Hi there, I'm Nick a first year Computer Science Major with both ADHD and Autism Spectrum Disorder.
+And I am always eager to learn new programming styles and techniques and improve my existing abilities. :D
 
 
   <summary><b>Where to find me</b></summary>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/peppapig450)
-  
+
 <summary><b>Skills</b></summary>
 
-[![python](https://img.shields.io/badge/python-★☆☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
-[![java](https://img.shields.io/badge/java-★☆☆-lightgrey?labelColor=007396&logo=Java&style=for-the-badge&logoColor=white)](https://www.java.com)
-[![bash](https://img.shields.io/badge/bash-★★☆-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+**Problem-Solving:**
 
-[![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
-[![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
-[![javascript](https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
+* Analytical thinking and problem-solving
+* Ability to think outside the box and develop creative solutions
+* Experience in troubleshooting complex issues and identifying root causes
 
+**Programming Languages:**
 
-<summary><b>OS & Tools</b></summary>
+* **Python:**
+    * Proficient in:
+        * *Core Python:* 
+          * Data Structures
+          * Control Flow
+          * Functions (instance, static, and class methods)
+          * Decorators (properties, wrappers, getters and setters)
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
-![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&style=for-the-badge&logoColor=white)
+        * *Object-Oriented Programming:*
+          * Inheritance and Polymorphism
+          * Encapsulation and Abstraction
+          * Mixins
+          * `__dunder__` magic methods for classes
+          * Metaprogramming
+          * Design Patterns (Factory Methods and Singletons)
+      
+        * Data manipulation (JSON, CSV, YAML and Parquet)
+        * Functional Programming
+        * Exception handling
+        * File I/O
+        * Systems administration scripting
+        * Asynchronous programming
+        * Web scraping
+        * Optimization techniques (including cprofile and timeit)
+        * Command line apps (Argparse)
+        * Docstrings and Type Hints
+        * Unit testing (pytest)
+        * Logging
+        * Serialization with Pickle and Shelve
 
-![neovim](https://img.shields.io/badge/-neovim-57A143?logo=Neovim&style=for-the-badge&logoColor=white)
-![vim](https://img.shields.io/badge/-vim-019733?logo=Vim&style=for-the-badge&logoColor=white)
-![VsCode](https://img.shields.io/badge/-VsCode-007ACC?logo=Visual-Studio-Code&style=for-the-badge&logoColor=white)
+    * Libraries:
+        * Pydantic
+        * Selenium
+        * Pandas
+        * beautifulsoup4
+        * requests
+        * Pyarrow
+        * Jinja
+        * Numpy
+        * Pytest
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
-![Gitlab](https://img.shields.io/badge/-Gitlab-FCA121?logo=GitLab&style=for-the-badge&logoColor=white)
+    * Development Tools:
+        * Poetry
+        * Mypy
+
+* **Scripting:**
+    * Proficient in:
+        * Python scripting for Windows, Linux and MacOS
+        * Bash, Posix sh, and ZSH scripting for managing Linux and MacOS
+        * PowerShell scripting for Windows
+
+* **Web Programming:**
+    * Proficient in:
+        * HTML
+        * CSS
+        * Vanilla JavaScript and basic TypeScript
+
+* **Databases:**
+    * Proficient in:
+        * SQL databases including MySql and Postgresql
+        * NoSQL databases including MongoDB
+        * Sqlite for simple caching
+
+* **Java:**
+    * Proficient in:
+        * Core Java (OOP concepts, primitive data types, control flow)
+        * Exception handling 
+        * File I/O
+        * Database connectivity: (JDBC for SQL)
+        * Build tools:
+          * Maven
+          * Gradle
+        * Building user interfaces with JavaFX/OpenJFX (using FXML)
+
+* **Development Tools:**
+  * Git: (Github, Gitlab)
+  * VSCode
+  * Build Tools (build automation)
+        * Meson, CMake, Autotools (libtool, Make)
+
+* **Command line & Systems Administration:**
+  * Proficient and comfortable on the command line with extensive experience in various areas, including:
+
+    * Network Management: SSH, scp, rsync, curl, wget, aria2
+    * Security: gpg, openpgp
+    * System Administration:
+        * File System Management: Proficient in partitioning, formatting, and managing filesystems (e.g., XFS, BTRFS, LVM and RAID with experience in tool usage like cfdisk, fdisk, gdisk and parted).
+        * Network file systems: NTFS and Samba
+        * Bootloader Configuration: Experienced in configuring bootloaders for different system types (UEFI/BIOS) and partition schemes (MBR/GPT) with GRUB and Systemd-boot, including dual booting Windows and Linux
+        * Utilities: top/atop/htop, df, du, find, etc..
+        * Text manipulation: grep, ripgrep, sed, awk, tr, cut
+        * Network monitoring: nmap, netcat, tcpdump, iptables
+        * Systemd services, CRON jobs
+
+* **Operating Systems:**
+  * Proficient on any operating system
+    * **Linux:**
+        * Extensive experience with Gentoo Linux, Arch Linux, and Debian-based distros (e.g., Ubuntu, Mint).
+        * Familiar with NixOS, RHEL-based distros (e.g., Red Hat, CentOS, Rocky, Fedora), and SUSE Linux.
+    * **BSD:**
+        * Familiar with OpenBSD and FreeBSD.
+    * **Windows:** Advanced power-usage with Powertoys.
+    * **macOS**
+  * Package managers for all of these:
+    * Adept at using package managers across various distributions: APT, pacman (AUR), nix, dnf/yum, portage, zypper, winget/scoop, and Homebrew.
 
 
 <h2>Github stats :bar_chart:</h2>
