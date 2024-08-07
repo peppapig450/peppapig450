@@ -1,7 +1,6 @@
 ## Info 
 
-Hi there, I'm Nick a first year Computer Science Major with both ADHD and Autism Spectrum Disorder.
-And I am always eager to learn new programming styles and techniques and improve my existing abilities. :D
+Hi there, I'm Nick a first year Computer Science Major.
 
 
 <details>
