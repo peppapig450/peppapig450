@@ -145,9 +145,9 @@ Hi there, I'm Nick a first year Computer Science Major.
 -->
 
 <p align="center">
-  <a href="https://github.com/peppapig450?tab=stars">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=peppapig450&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@peppapig450's github-readme-streak-stats"/>
-  </a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=peppapig450&theme=bear" alt="GitHub Streak" />
+</a>
 </p>
 
 <!-- activity graph heroku-app start -->
